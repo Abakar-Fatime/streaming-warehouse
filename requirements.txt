@@ -1,0 +1,5 @@
+pyspark==3.5.3
+pandas>=2.0
+pyarrow>=14.0
+pytest>=8.0
+kafka-python>=2.0   # only needed for --sink kafka in the generator
